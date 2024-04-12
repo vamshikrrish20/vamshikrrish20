@@ -4,6 +4,9 @@ I'm a budding Data Scientist currently studying at Pace University, passionate a
 
 🔍 **I'm actively seeking opportunities where I can contribute and grow in the data science field, including roles in freelancing, consulting, and full-time positions.**
 
+## Let's Connect!
+If you're interested in collaborating on a project or if you know of opportunities where my skills can shine, please feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/vamshikrishnabangaru/).
+
 ## Skills
 - **Languages**: Python, R, SQL
 - **Tools**: PostgreSQL, MySQL, PowerBi
@@ -23,5 +26,4 @@ Since most of my recent projects are academic in nature, I've shared detailed re
 
 🚀 Stay tuned for more updates as I delve deeper into machine learning projects and continue enhancing my data science portfolio here on GitHub.
 
-## Let's Connect!
-If you're interested in collaborating on a project or if you know of opportunities where my skills can shine, please feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/vamshikrishnabangaru/).
+
